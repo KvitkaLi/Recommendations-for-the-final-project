@@ -43,11 +43,11 @@
 Питання на які треба відповісти: 
 * Що було найскладніше;
 * Короткий опис труднощів і як їх вдалося подолати.  
-📚 Чому я навчився/лася
-1–2 речення про здобуті навички.
-👤 Автор
-•	Ім’я Прізвище
-•	Email: your@email.com
-•	LinkedIn/GitHub: https://github.com/your-username
-Скріншоти
+📚 Чому я навчився/лася  
+1–2 речення про здобуті навички.  
+👤 Автор  
+•	Ім’я Прізвище  
+•	Email: your@email.com  
+•	LinkedIn/GitHub: https://github.com/your-username  
+Скріншоти  
 <img src="screenshots/home.png" width="600" alt="Головна сторінка" />
