@@ -50,4 +50,4 @@
 •	Email: your@email.com  
 •	LinkedIn/GitHub: https://github.com/your-username  
 Скріншоти  
-<img src="screenshots/home.png" width="600" alt="Головна сторінка" />
+
