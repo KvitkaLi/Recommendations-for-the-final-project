@@ -18,11 +18,8 @@
 4.	CSS-стилізація (зовнішній вигляд):  
 •	Обнуляємо сттилі. Підключення стилів (Reset/Normalize CSS для скидання браузерних стилів).  
 •	Налаштування глобальних стилів та підключення змінних (шрифти, кольори, інші за необхідності).  
-:root{
-    --primary-color:#222F33;
-    --font-size:14px; 
-…
-}
+<img width="379" height="196" alt="kod-2" src="https://github.com/user-attachments/assets/a28b5ff0-c1ed-4015-b336-ccba7da71bb8" />  
+
 5.	Верстка блоків за допомогою Flexbox або Grid.
 6.	Адаптивність (Responsive Design):
 •	Додайте медіазапити (@media) для адаптації верстки під різні екрани (від desktop до mobile).
