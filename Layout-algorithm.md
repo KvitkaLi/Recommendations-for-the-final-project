@@ -14,7 +14,8 @@
 
 Особливо важливий: **viewport** - без нього адаптив не працює правильно.  
 - Налаштування адаптиву за допомогою селектораа атрибуту.  
-<img width="285" height="131" alt="kod-1" src="https://github.com/user-attachments/assets/26505477-4f15-4bc1-b8f7-7ba756ba4ec3" />  
+<img width="285" height="131" alt="kod-1" src="https://github.com/user-attachments/assets/26505477-4f15-4bc1-b8f7-7ba756ba4ec3" />
+  
 ### Семантична структура  
 - Для структурування сторінки використовують семантичні теги:  
 •	header — шапка сайту  
