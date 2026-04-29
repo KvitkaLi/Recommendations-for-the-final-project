@@ -1,6 +1,7 @@
 # Recommendations-for-the-final-project
 Рекомендації до випускної роботи для студентів ІТ школи ПДМ  
-[Структура презентації проекту](https://github.com/KvitkaLi/Recommendations-for-the-final-project/blob/main/project-structure.md)
+[Структура презентації проекту](https://github.com/KvitkaLi/Recommendations-for-the-final-project/blob/main/project-structure.md)  
+[Алгоритм верстки веб сторінки](
 # Короткий опис проєкту.  
 Що він робить? Для кого створений?  
 # Формат виконання роботи
